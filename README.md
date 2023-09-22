@@ -1,6 +1,6 @@
 # Texture-Packer
 
-<p align="center"><img width="210" height="210" src="https://github.com/gappro/Texture-Packer/assets/50177367/c5fcb07a-4976-4220-8aad-d5450ab0b4be"></img></p>
+<p align="center"><img width="210" height="210" src="https://github.com/gappro/Texture-Packer/assets/50177367/f1176a08-adfa-4b93-bb40-b05a3b13a1fd"></img></p>
 
 Simple MVVM C# WPF Application Texture Packer capable of handling various Resolutions, Image Types and Texture atlases.
 
@@ -19,22 +19,22 @@ Horizontal Limit sets a maximum number of textures per row/column
 Override offers capability of creating diverse texture atlases of the same size if the images input are more than a singular atlas can handle
 ```
 
-<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/92559136-9b14-4055-9c5f-28b5a8ce13be"></img></p>
+<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/c56cae3f-064b-4761-b9e4-b5e9ae82f210"></img></p>
 
 ```
 Image Extensions
 ```
-<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/0e4be3e0-3545-498b-b0a5-cfaa842f7fed"></img></p>
+<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/1b80e3bc-1ef2-4168-a708-35cb11685801"></img></p>
 
 ```
 Non Overrided output example
 ```
-<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/a5f5a8b0-9790-4430-9228-d7143453964d"></img></p>
+<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/c843417e-c951-4dcf-a78a-ac0c411a7fbb"></img></p>
 
 ```
 Overrided outputs example
 ```
-<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/34043dd5-0662-4cea-9475-4067b917f2f6"/><img src="https://github.com/gappro/Texture-Packer/assets/50177367/5e3b831e-0744-4bfc-ad90-c3b5197504d6"/></p>
+<p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/e2e513f8-e1ba-4d52-82bf-5a5290017d15"/><img src="https://github.com/gappro/Texture-Packer/assets/50177367/cb737614-5140-4c60-b6d2-b5c60394ad1f"/></p>
 
 ## License
 
