@@ -8,6 +8,8 @@ Simple MVVM C# WPF Application Texture Packer capable of handling various Resolu
 
 It takes x number of files and calculates their dimensions in the texture atlas based on AtlasResolution/FileNumber unless a Horizontal limit lower than the file number is applied, in which case the limit will override the ecuation to AtlasResolution/Limiter. Via the texture size in the atlas all textures are resized in width and height.
 
+All resized images are drawn on the atlas pixel per pixel via Bitmaps.
+
 Override function works as such that if the number of files are higher to the number of files that fit inside an atlas it creates a folder with various atlases.
 
 *Miles Morales is NOT included in distributed version
