@@ -1,8 +1,17 @@
-# Texture-Packer
-
-<p align="center"><img width="210" height="210" src="https://github.com/gappro/Texture-Packer/assets/50177367/f1176a08-adfa-4b93-bb40-b05a3b13a1fd"></img></p>
-
-Simple MVVM C# WPF Application Texture Packer capable of handling various Resolutions, Image Types and Texture atlases.
+<div align="center">
+  <p align="center"><img width="210" height="210" src="https://github.com/gappro/Texture-Packer/assets/50177367/f1176a08-adfa-4b93-bb40-b05a3b13a1fd"></img></p>
+<pre>
+████████╗███████╗██╗  ██╗████████╗██╗   ██╗██████╗ ███████╗    ██████╗  █████╗  ██████╗██╗  ██╗███████╗██████╗ 
+╚══██╔══╝██╔════╝╚██╗██╔╝╚══██╔══╝██║   ██║██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+   ██║   █████╗   ╚███╔╝    ██║   ██║   ██║██████╔╝█████╗      ██████╔╝███████║██║     █████╔╝ █████╗  ██████╔╝
+   ██║   ██╔══╝   ██╔██╗    ██║   ██║   ██║██╔══██╗██╔══╝      ██╔═══╝ ██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+   ██║   ███████╗██╔╝ ██╗   ██║   ╚██████╔╝██║  ██║███████╗    ██║     ██║  ██║╚██████╗██║  ██╗███████╗██║  ██║ 
+  
+---------------------------------------------------
+desktop MVVM C# WPF app to pack multiple textures into one file
+</pre>
+</div>
+Have you ever had too many textures? Want to use less memory? Try Texture Packer -- a WPF desktop program to package your endless files into one or many beautiful pieces of work.
 
 ## How it works
 
@@ -14,7 +23,7 @@ Override function works as such that if the number of files are higher to the nu
 
 *Miles Morales is NOT included in distributed version
 
-```
+```sh
 File Name sets the output file name and in case of Override they will be set in a folder of the same name containing FileName+index files
 Resolution of atlas sets output file dimensions, will always be a factor of two
 Horizontal Limit sets a maximum number of textures per row/column
@@ -38,6 +47,10 @@ Overrided outputs example
 ```
 <p align="center"><img src="https://github.com/gappro/Texture-Packer/assets/50177367/e2e513f8-e1ba-4d52-82bf-5a5290017d15"/><img src="https://github.com/gappro/Texture-Packer/assets/50177367/cb737614-5140-4c60-b6d2-b5c60394ad1f"/></p>
 
-## License
+## Meta
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Gabriel – gabrielv.gonz@gmail.com
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 
+
+[https://github.com/gappro](https://github.com/gappro)
